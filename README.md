@@ -1,1 +1,1 @@
-This is my firt attempt at shell basics
+This is my first attempt at Shell permissions
